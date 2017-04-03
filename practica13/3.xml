@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+    <contacto esfamiliar="true">
+        <nombre>Javivi</nombre>
+        <apellidos>
+            <apellido>el</apellido>
+            <apellido>Magners</apellido>
+        </apellidos>
+        <edad>22</edad>
+        <direccion esdomprincipal="true">
+            <tcalle>Calle</tcalle> <!-- Tipo de calle -->
+            <calle>Elkano</calle>
+            <num>67</num>
+            <cpost>08004</cpost>
+            <ciudad>Barcelona</ciudad>
+        </direccion>
+        <comunicacion>
+            <tfijo>932929381</tfijo>
+            <tmovil>663369371</tmovil>
+            <mail>javierpuiggener@gmail.com</mail>
+        </comunicacion>
+    </contacto>
+     <contacto esfamiliar="true">
+        <nombre>Vihck</nombre>
+        <apellidos>
+            <apellido>el</apellido>
+            <apellido>Jodidididisimo</apellido>
+        </apellidos>
+        <edad>17</edad>
+        <direccion esdomprincipal="true">
+            <tcalle>Calle</tcalle> <!-- Tipo de calle -->
+            <calle>Gran Vía de les Corts Catalanes</calle>
+            <num>489</num>
+            <cpost>08015</cpost>
+            <ciudad>Barcelona</ciudad>
+        </direccion>
+        <comunicacion>
+            <tfijo>932929381</tfijo>
+            <tmovil>663362371</tmovil>
+            <mail>vihck@gmail.com</mail>
+        </comunicacion>
+    </contacto>
+     <contacto esfamiliar="false">
+        <nombre>Smusiano</nombre>
+        <apellidos>
+            <apellido>Cedeño</apellido>
+            <apellido>Chavaleitor</apellido>
+        </apellidos>
+        <edad>20</edad>
+        <direccion esdomprincipal="true">
+            <tcalle>Calle</tcalle> <!-- Tipo de calle -->
+            <calle>Falsa</calle>
+            <num>55</num>
+            <cpost>08007</cpost>
+            <ciudad>Barcelona</ciudad>
+        </direccion>
+        <comunicacion>
+            <tfijo>932929380</tfijo>
+            <tmovil>663369370</tmovil>
+            <mail>xxxsmoothiexxx@gmail.com</mail>
+        </comunicacion>
+    </contacto>
+</agenda>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<micasa>
+    <habitacion id='comedor'>
+        <funcion>Se come</funcion>
+        <nombre>Comedor</nombre>
+        <muebles>
+            <mueble>Mesa</mueble>
+            <mueble>Sofá</mueble>
+        </muebles>
+        <puerta a='recibidor' />
+    </habitacion>
+    <habitacion id='cocina'>
+        <funcion>Se cocina</funcion>
+        <nombre>Cocina</nombre>
+        <muebles>
+            <mueble>Silla</mueble>
+            <mueble>Mesa</mueble>
+        </muebles>
+        <puerta a='pasillo' />
+    </habitacion>
+    <habitacion id='despacho'>
+        <funcion>Se vicia</funcion>
+        <nombre>Despacho</nombre>
+        <muebles>
+            <mueble>Mesa</mueble>
+            <mueble>Mesa</mueble>
+            <mueble cant='2'>Silla</mueble> <!-- igual que arriba -->
+        </muebles>
+        <puerta a='pasillo' />
+    </habitacion>
+</micasa>

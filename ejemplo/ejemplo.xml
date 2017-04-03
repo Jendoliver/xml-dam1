@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <game>
+        <title>HeartStone</title>
+        <nplayers>2</nplayers>
+        <dev>Blizzard</dev>
+        <genre>Pay to Win</genre>
+        <reviews>
+            <review n="1">
+                <mark>5</mark>
+                <text>Bastante podrido</text>
+                <author>Manolo cabeza huevo</author>
+            </review>
+            <review n="2">
+                <mark>6</mark>
+                <text>Un poco fino pero no me mola</text>
+                <author>Llo</author>
+            </review>
+        </reviews>
+    </game>
+    <game>
+        <title>World of Warcraft</title>
+        <nplayers>1</nplayers>
+        <dev>Blizzard</dev>
+        <genre>MMORPG</genre>
+        <reviews>
+            <review n="1">
+                <mark>10</mark>
+                <text>Brotale</text>
+                <author>Manolo cabeza huevo</author>
+            </review>
+            <review n="2">
+                <mark>9</mark>
+                <text>Brotalik pero nerf pala plix</text>
+                <author>Llo</author>
+            </review>
+        </reviews>
+    </game>
+</games>

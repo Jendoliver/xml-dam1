@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+    <equipo>
+        <nombre>Cloud9</nombre>
+        <loc>USA</loc>
+        <director>Barbudo Cabronazi</director>
+        <juegos>
+            <juego>
+                <nombre>Super Smash Bros. Melee</nombre>
+                <jugadores>
+                    <jugador>
+                        <mote>Mang0</mote>
+                        <nombrereal>
+                            <nombre>Joseph</nombre>
+                            <apellidos>
+                                <apellido>Marquez</apellido>
+                            </apellidos>
+                        </nombrereal>
+                        <main>Falco</main>
+                        <second>Fox</second>
+                    </jugador>
+                </jugadores>
+                <coach>
+                    <nombre>Tafo</nombre>
+                    <apellidos>
+                        <apellido>Dalecaña</apellido>
+                        <apellido>aMang0</apellido>
+                    </apellidos>
+                </coach>
+                <victorias>1</victorias>
+                <derrotas>100</derrotas>
+            </juego>
+            <juego>
+                <nombre>League of Legends</nombre>
+                <jugadores>
+                    <jugador>
+                        <mote>Mhmhmhm</mote>
+                        <nombrereal>
+                            <nombre>No</nombre>
+                            <apellidos>
+                                <apellido>Juegoal</apellido>
+                                <apellido>LOL</apellido>
+                            </apellidos>
+                        </nombrereal>
+                        <main>Katarina (Mid)</main>
+                        <second>Leblanc (Mid)</second>
+                    </jugador>
+                    <jugador>
+                        <mote>EdgyGuy69</mote>
+                        <nombrereal>
+                            <nombre>Stephano</nombre>
+                            <apellidos>
+                                <apellido>Dimoney</apellido>
+                                <apellido>Filldeputahoritzontal</apellido>
+                            </apellidos>
+                        </nombrereal>
+                        <main>Taric (Sup)</main>
+                        <second>Sona (Sup)</second>
+                    </jugador>
+                </jugadores>
+                <coach>
+                    <nombre>Algun</nombre>
+                    <apellidos>
+                        <apellido>Kepuyo</apellido>
+                    </apellidos>
+                </coach>
+                <victorias>50</victorias>
+                <derrotas>50</derrotas>
+            </juego>
+        </juegos>
+    </equipo>
+    <equipo>
+        <nombre>Team SoloMid</nombre>
+        <loc>USA</loc>
+        <director>Barbudo Espektakular</director>
+        <juegos>
+            <juego>
+                <nombre>Super Smash Bros. Melee</nombre>
+                <jugadores>
+                    <jugador>
+                        <mote>Leffen</mote>
+                        <nombrereal>
+                            <nombre>William</nombre>
+                            <apellidos>
+                                <apellido>Hjejte</apellido>
+                            </apellidos>
+                        </nombrereal>
+                        <main>Fox</main>
+                        <second>Yoshi</second>
+                    </jugador>
+                </jugadores>
+                <coach>
+                    <nombre>Nope</nombre>
+                    <apellidos>
+                        <apellido>Stetio</apellido>
+                        <apellido>Sabejugar</apellido>
+                    </apellidos>
+                </coach>
+                <victorias>70</victorias>
+                <derrotas>20</derrotas>
+            </juego>
+            <juego>
+                <nombre>League of Legends</nombre>
+                <jugadores>
+                    <jugador>
+                        <mote>Mhmhmhm</mote>
+                        <nombrereal>
+                            <nombre>No</nombre>
+                            <apellidos>
+                                <apellido>Juegoal</apellido>
+                                <apellido>LOL</apellido>
+                            </apellidos>
+                        </nombrereal>
+                        <main>Katarina (Mid)</main>
+                        <second>Leblanc (Mid)</second>
+                    </jugador>
+                    <jugador>
+                        <mote>EdgyGuy69</mote>
+                        <nombrereal>
+                            <nombre>Stephano</nombre>
+                            <apellidos>
+                                <apellido>Dimoney</apellido>
+                                <apellido>Filldeputahoritzontal</apellido>
+                            </apellidos>
+                        </nombrereal>
+                        <main>Taric (Sup)</main>
+                        <second>Sona (Sup)</second>
+                    </jugador>
+                </jugadores>
+                <coach>
+                    <nombre>Algun</nombre>
+                    <apellidos>
+                        <apellido>Kepuyo</apellido>
+                    </apellidos>
+                </coach>
+                <victorias>50</victorias>
+                <derrotas>50</derrotas>
+            </juego>
+        </juegos>
+    </equipo>
+</equipos>
