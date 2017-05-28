@@ -15,3 +15,28 @@
         <nfans>1000</nfans>
     </banda>
 </bandas>
+
+<!-- OTRA FORMA MÁS ESCALABLE (si tengo más información sobre los integrantes, esto me es más fácil de modificar -->
+<bandas>
+    <banda>
+        <nombre>Fénix</nombre>
+        <genero>Heavy el Metal</genero>
+        <web>www.fenixoficial.com</web>
+        <integrantes num="4">
+            <integrante>
+                <edad>20</edad>
+            </integrante>
+            <integrante>
+                <edad>22</edad>
+            </integrante>
+            <integrante>
+                <edad>21</edad>
+            </integrante>
+            <integrante>
+                <edad>23</edad>
+            </integrante>
+        </integrantes>
+        <nconciertos>5</nconciertos>
+        <nfans>1000</nfans>
+    </banda>
+</bandas>
